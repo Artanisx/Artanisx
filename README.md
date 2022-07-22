@@ -17,8 +17,8 @@ I can code in the following languages.
     
 </div>
 
-## Game Engine and Frameworks
-I can use following framework and game engines (with various degrees of expertise).   
+## Game Engines and Frameworks
+I can use following frameworks and game engines (with various degrees of expertise).   
 <div id="languages">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sdl/sdl-plain.svg" title="SDL" alt="SDL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity 3D" alt="Unity 3D" width="40" height="40"/>&nbsp;
