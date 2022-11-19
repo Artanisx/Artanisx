@@ -27,9 +27,8 @@ I can use following frameworks and game engines (with various degrees of experti
     <img src="https://docs.monogame.net/images/favicon-192x192.png" title="Monogame" alt="Monogame" width="40" height="40"/>&nbsp;
 </div>
 
-
-
-
+## Contacts
+You can also reach me on <a rel="me" href="https://mastodon.gamedev.place/@Artanis">Mastodon</a>
 
 ##  Github Stats
 
