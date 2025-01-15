@@ -27,6 +27,16 @@ I can use following frameworks and game engines (with various degrees of experti
     <img src="https://docs.monogame.net/images/favicon-192x192.png" title="Monogame" alt="Monogame" width="40" height="40"/>&nbsp;
 </div>
 
+## Released Projects
+<div id="projects">
+        <a rel="me" href="https://artanisx.itch.io/lava-golf">Unity Game: Lava Golf</a><br>
+        <a rel="me" href="https://artanisx.itch.io/lava-golf">Unity Game: Shield Control</a><br>    
+        <a rel="me" href="https://github.com/Artanisx/aliensurvivors/releases">Godot Game: Alien Survivors</a><br>
+        <a rel="me" href="https://github.com/Artanisx/Arta2DEngine">C# Game Engine: Arta 2D Engine</a><br>
+        <a rel="me" href="https://github.com/Artanisx/ArtaCore-Query-Creator">C# Application: ArtaCore Query Creator</a><br>
+        <a rel="me" href="https://github.com/Artanisx/MythicPlusLoot">LUA World of Warcraft Mod: MythicPlusLoot</a>
+</div>
+
 ## Contacts
 You can also reach me on <a rel="me" href="https://mastodon.gamedev.place/@Artanis">Mastodon</a>
 
