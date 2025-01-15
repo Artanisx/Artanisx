@@ -38,7 +38,12 @@ I can use following frameworks and game engines (with various degrees of experti
 </div>
 
 ## Contacts
-You can also reach me on <a rel="me" href="https://mastodon.gamedev.place/@Artanis">Mastodon</a>
-
+You can also reach me on:
+<div id="contacts">
+    <a rel="me" href="https://www.linkedin.com/in/fabriziotobia/"><img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a> 
+    <a rel="me" href="https://mastodon.gamedev.place/@Artanis"><img src="https://joinmastodon.org/logos/logo-purple.svg" title="Mastodon" alt="Mastodon" width="40" height="40"/></a>     
+    <a rel="me" href="https://bsky.app/profile/artanisx.bsky.social"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" title="Bluesky" alt="Bluesky" width="40" height="40"/></a><br>
+</div>
+ 
 ##  Github Stats
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=Artanisx&theme=merko)
