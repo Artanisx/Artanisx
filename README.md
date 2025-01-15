@@ -41,4 +41,4 @@ I can use following frameworks and game engines (with various degrees of experti
 You can also reach me on <a rel="me" href="https://mastodon.gamedev.place/@Artanis">Mastodon</a>
 
 ##  Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=Artanisx&theme=dark)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats-eight.vercel.app/?user=Artanisx&theme=merko)
